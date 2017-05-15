@@ -1,0 +1,6 @@
+name: ModernBedWars-Stats-For-Clans
+version: ${project.version}
+author: Simonsator
+depends: [Clans]
+main: de.simonsator.partyandfriends.clans.stats.bedwarsnb.BWNBStatsMain
+description: Provides stats for clans for BedWarsNB
